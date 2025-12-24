@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm asoscuot 👋
 
-<!--
-**asoscuot/asoscuot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A student preparing for postgraduate entrance exams  
+💻 Interested in computer science & self-improvement  
+📍 China
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently an undergraduate student, focusing on exam preparation and foundational CS knowledge  
+- Learning Git & GitHub step by step, and using them to manage my study notes and projects  
+- Believe in steady progress rather than quick wins  
+
+---
+
+## What I'm Doing Now
+
+- 📚 Preparing for postgraduate entrance exams  
+- 🧠 Strengthening fundamentals: data structures, operating systems, and computer networks  
+- ✍️ Recording my learning process and reflections  
+
+---
+
+## Skills & Tools (Learning)
+
+- Programming: C / Python (basic)
+- Tools: Git, GitHub
+- Others: Markdown, Linux (beginner)
+
+---
+
+## My GitHub Philosophy
+
+> Use GitHub not only to store code,  
+> but also to record growth.
+
+---
+
+## Contact
+
+- GitHub: @asoscuot
+
+Thanks for visiting. 😊
