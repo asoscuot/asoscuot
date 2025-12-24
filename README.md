@@ -15,8 +15,7 @@
 ---
 
 ## What I'm Doing Now
-
-- 📚 Preparing for postgraduate entrance exams  
+  
 - 🧠 Strengthening fundamentals: data structures, operating systems, and computer networks  
 - ✍️ Recording my learning process and reflections  
 
